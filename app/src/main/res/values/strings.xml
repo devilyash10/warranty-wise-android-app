@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WarrantyWise</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="brand">Brand</string>
+    <string name="category">Category</string>
+    <string name="purchase_date">Purchase Date</string>
+    <string name="warranty_period">Warranty Period (months)</string>
+    <string name="service_history">Service History</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="warranty_active">Active</string>
+    <string name="warranty_expiring">Expiring Soon</string>
+    <string name="warranty_expired">Expired</string>
+    <string name="upload_invoice">Upload Invoice</string>
+    <string name="no_products">No products yet. Tap + to add one!</string>
+</resources>

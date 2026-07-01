@@ -1,0 +1,14 @@
+Copyright (c) 2026 Yash Bhadoriya
+
+PROPRIETARY AND CONFIDENTIAL
+
+This software, source code, and associated documentation files (the "Software") are the proprietary property of Yash Bhadoriya and are protected by copyright laws.
+
+1. RESTRICTIONS ON USE AND DISTRIBUTION
+You are permitted to view, fork, and locally modify the source code for personal, private, or educational purposes only. You are STRICTLY PROHIBITED from using, copying, modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software, in whole or in part, for any commercial, business, or profit-making purpose.
+
+2. CONTRIBUTIONS, FORKS, AND OWNERSHIP
+By submitting any code, bug fixes, features, modifications, or pull requests (collectively, "Contributions") to this repository, you agree to assign all rights, title, and copyright of your Contributions to the project owner (Yash Bhadoriya). You grant the project owner a perpetual, worldwide, exclusive, royalty-free, and irrevocable right to use, modify, distribute, monetize, and incorporate your Contributions into the Software without any restriction, compensation, or mandatory attribution.
+
+3. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
